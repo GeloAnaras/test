@@ -1,0 +1,4 @@
+<?php
+$test = function ($name){
+    var_dump($name);
+};
