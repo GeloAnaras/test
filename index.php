@@ -21,3 +21,5 @@ define("MODULES_PATH",CORE_PATH."modules/");
 include DOCROOT."vendor/autoload.php";
 
 include CORE_PATH."loader.php";
+
+$test = "c,mfndsklfdslkfjdsf";
