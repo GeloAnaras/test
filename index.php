@@ -23,3 +23,4 @@ include DOCROOT."vendor/autoload.php";
 include CORE_PATH."loader.php";
 
 $test = "c,mfndsklfdslkfjdsf";
+$test = "dlkjldgfdsgkmd;lgdg";
